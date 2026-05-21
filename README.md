@@ -80,7 +80,7 @@ variants that answer questions from combined memory.
 @misc{kim2026machinehumanlikememorysystems,
       title={A Machine With Human-Like Memory Systems},
       author={Taewoon Kim and Michael Cochez and Vincent Francois-Lavet and Mark Neerincx and Piek Vossen},
-      year={2026},
+      year={2022},
       eprint={2204.01611},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
