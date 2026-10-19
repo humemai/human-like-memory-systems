@@ -6,7 +6,7 @@ Code for heuristic agents with explicit episodic and semantic memory that operat
 [RoomEnv-v0](https://github.com/humemai/room-env).
 
 For the research overview, see the
-[project page](https://humem.ai/projects/human-like-memory-systems) or the paper on
+[project page](https://humem.ai/research/human-like-memory-systems) or the paper on
 [arXiv](https://arxiv.org/abs/2204.01611).
 
 This README focuses on the code, setup, and handcrafted policies.
@@ -70,7 +70,7 @@ variants that answer questions from combined memory.
 
 ## Further reading
 
-- [Project page](https://humem.ai/projects/human-like-memory-systems)
+- [Project page](https://humem.ai/research/human-like-memory-systems)
 - [Paper on arXiv](https://arxiv.org/abs/2204.01611)
 - [RoomEnv-v0](https://github.com/humemai/room-env)
 
